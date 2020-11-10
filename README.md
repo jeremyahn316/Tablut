@@ -7,7 +7,7 @@ One of the white pieces is the king, and the others, his guards. The white side 
 The black pieces aim to capture the king before he reaches the edge of the board.
 
 
-![Alt text](https://inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj2/img/tablut1.png "Optional title") ![Alt text](https://inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj2/img/tablut2.png "Optional title")
+    ![Alt text](https://inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj2/img/tablut1.png "Optional title")   ![Alt text](https://inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj2/img/tablut2.png "Optional title")
 
 
 All pieces move like chess rooks: any number of squares orthogonally (horizontally or vertically). 
