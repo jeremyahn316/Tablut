@@ -1,6 +1,10 @@
 # Tablut
 This project was created as a part of CS61B: Data Structures at UC Berkeley.
 
+![Alt text](https://inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj2/img/tablut1.png "Optional title")
+![Alt text](https://inst.eecs.berkeley.edu/~cs61b/fa19/materials/proj/proj2/img/tablut2.png "Optional title")
+
+
 Tablut is played on a 9x9 checkerboard between a set of 9 white pieces and 16 black pieces. The middle square is called the throne (or castle). 
 One of the white pieces is the king, and the others, his guards. The white side wins if the king reaches one of the edges of the board. 
 The black pieces aim to capture the king before he reaches the edge of the board.
