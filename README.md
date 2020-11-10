@@ -1,5 +1,5 @@
 # Tablut
-This project was created as a part of CS61B: Data Structures at UC Berkeley.
+This project was created as a part of CS61B: Data Structures at UC Berkeley using Java. 
 
 
 Tablut is played on a 9x9 checkerboard between a set of 9 white pieces and 16 black pieces. The middle square is called the throne (or castle). 
